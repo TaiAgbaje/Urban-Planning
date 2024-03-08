@@ -1,7 +1,7 @@
 import random
-import numpy
 
-# Read a text file and generate a board representation as a 2D array
+# Read a text file and 
+# generate a board representation as a 2D array
 def read_File(fname):
     board = []
     line_num = 0
